@@ -35,7 +35,6 @@
         <preference name="SplashScreen" value="screen" /><!-- added by Nikita -->
         <preference name="SplashScreenDelay" value="7000" /><!-- added by Nikita -->
         <preference name="ShowSplashScreenSpinner" value="false" /><!-- added by Nikita -->
-        <splash src="splash.png" /><!-- added by Nikita -->
         <preference name="ShowSplashScreenSpinner" value="false" /><!-- added by Nikita -->
     </platform>
     
