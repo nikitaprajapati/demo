@@ -32,8 +32,8 @@
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
     <icon src="icon.png" />
     <platform name="android">
-        <splash src="splash.png" />
-        <preference name="SplashScreen" value="screen" /><!-- added by Nikita -->
+ 
+        <preference name="SplashScreen" value="splash" /><!-- added by Nikita -->
         <preference name="SplashScreenDelay" value="7000" /><!-- added by Nikita -->
         <preference name="ShowSplashScreenSpinner" value="false" /><!-- added by Nikita -->
         
